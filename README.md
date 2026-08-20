@@ -4,8 +4,6 @@ An end-to-end machine learning pipeline for forecasting hourly electricity load 
 
 **Final Result:** LightGBM regression model — Test RMSE **173.84 MW**, MAPE **0.89%** — a **91% improvement** over a naive weekly-lag baseline (1,910.83 MW).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kOOG25MdjlKZ-wX84wtWFbvKYqewtF3z?usp=sharing)
-
 ---
 
 ## Overview
