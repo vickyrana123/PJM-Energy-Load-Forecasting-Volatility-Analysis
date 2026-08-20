@@ -114,4 +114,3 @@ Residual analysis shows no systematic bias or drift over the test period, with a
 ## Author
 
 **Vicky Rana**
-📧 vickrana281@gmail.com
