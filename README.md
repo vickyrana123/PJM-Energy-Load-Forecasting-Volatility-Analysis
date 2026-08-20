@@ -78,7 +78,7 @@ Residual analysis shows no systematic bias or drift over the test period, with a
 ## Repository Structure
 
 ```
-├── PJM_Load_Forecasting_AEP.ipynb   # Full notebook (also available on Google Colab)
+├── PJM_Load_Forecasting_AEP.ipynb   
 └── README.md
 ```
 
